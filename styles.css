@@ -1,0 +1,27 @@
+
+body {
+    background-color: purple; 
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    font-style: italic; 
+    color: white; 
+	 
+}
+
+
+table {
+    border: 1px solid white;
+    width: 50%;
+}
+
+td {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+
+.red-text {
+    color: red;
+}
+
+
+h1 {font-size: 300%;}
