@@ -1,0 +1,29 @@
+
+
+.topnav .nav-links {
+  display: flex;
+  justify-content: space-around; 
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.topnav .nav-links li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none; 
+  font-weight: 500;
+  color: #333;
+  transition: color 0.2s;
+}
+
+.topnav .nav-links li a:hover {
+  color: #007acc;
+}
+
+
+
+.color-question {
+  color: red;
+  font-weight: 600; 
